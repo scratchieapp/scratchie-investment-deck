@@ -39,7 +39,7 @@ const LoginGate = ({ onAuthenticated }) => {
               <img 
                 src="https://i.imgur.com/kIU5cGL.png" 
                 alt="Scratchie Logo" 
-                className="w-16 h-16 object-contain"
+                className="w-40 h-40 object-contain"
               />
             </div>
             <h1 className="text-2xl font-bold text-gray-900 mb-2">
