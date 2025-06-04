@@ -1,0 +1,12 @@
+export { default as IntroSlide } from './IntroSlide';
+export { default as SummarySlide } from './SummarySlide';
+export { default as StorySlide } from './StorySlide';
+export { default as ModelSlide } from './ModelSlide';
+export { default as PathSlide } from './PathSlide';
+export { default as GrowthSlide } from './GrowthSlide';
+export { default as MapSlide } from './MapSlide';
+export { default as TermsSlide } from './TermsSlide';
+export { default as ConfidenceSlide } from './ConfidenceSlide';
+export { default as RisksSlide } from './RisksSlide';
+export { default as AskSlide } from './AskSlide';
+export { default as MetricsSlide } from './MetricsSlide'; 
