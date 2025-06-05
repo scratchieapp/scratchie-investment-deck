@@ -16,7 +16,7 @@ const StorySlide = () => {
           <div className="bg-blue-200 w-12 h-12 rounded-full flex items-center justify-center flex-shrink-0">2</div>
           <div>
             <h3 className="font-bold">The Big Pivot</h3>
-            <p className="text-gray-600">Realized the opportunity was workplace recognition across ALL industries</p>
+            <p className="text-gray-600">Realised the opportunity was workplace recognition across ALL industries</p>
           </div>
         </div>
         <div className="flex items-start space-x-4 animate-fade-in" style={{animationDelay: '0.4s'}}>

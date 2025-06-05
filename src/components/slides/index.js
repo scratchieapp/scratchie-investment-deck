@@ -4,6 +4,7 @@ export { default as StorySlide } from './StorySlide';
 export { default as ModelSlide } from './ModelSlide';
 export { default as PathSlide } from './PathSlide';
 export { default as GrowthSlide } from './GrowthSlide';
+export { default as CompetitiveSlide } from './CompetitiveSlide';
 export { default as MapSlide } from './MapSlide';
 export { default as TermsSlide } from './TermsSlide';
 export { default as ConfidenceSlide } from './ConfidenceSlide';

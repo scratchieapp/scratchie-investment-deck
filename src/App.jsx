@@ -10,6 +10,7 @@ import {
   ModelSlide,
   PathSlide,
   GrowthSlide,
+  CompetitiveSlide,
   MapSlide,
   TermsSlide,
   ConfidenceSlide,
@@ -31,6 +32,7 @@ const InvestmentDeck = () => {
     'model',
     'path',
     'growth',
+    'competitive',
     'map',
     'terms',
     'confidence',
@@ -182,6 +184,8 @@ const InvestmentDeck = () => {
         return <PathSlide />;
       case 'growth':
         return <GrowthSlide />;
+      case 'competitive':
+        return <CompetitiveSlide />;
       case 'map':
         return <MapSlide />;
       case 'terms':

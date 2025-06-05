@@ -23,9 +23,9 @@ const GrowthSlide = () => {
             Platform Partnerships
           </h3>
           <ul className="text-sm space-y-1">
-            <li>• Geotab: 4.7M vehicles</li>
-            <li>• SafetyCulture integration</li>
-            <li>• Donesafe (KFC potential)</li>
+            <li>• Signed: Geotab, SafetyCulture, Procore, Oracle Aconex</li>
+            <li>• In talks: Donesafe (pending McDonald's AU approval)</li>
+            <li>• Combined reach: 4.7M+ vehicles/users</li>
           </ul>
         </div>
         <div className="bg-orange-50 p-4 rounded-lg">

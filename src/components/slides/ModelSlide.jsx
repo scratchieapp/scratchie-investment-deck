@@ -10,7 +10,7 @@ const ModelSlide = () => {
           <ul className="space-y-2 text-sm text-gray-700">
             <li>• 20% commission on rewards</li>
             <li>• Unpredictable revenue</li>
-            <li>• Dependent on supervisor behavior</li>
+            <li>• Dependent on supervisor behaviour</li>
           </ul>
         </div>
         <div className="bg-green-50 p-6 rounded-lg">

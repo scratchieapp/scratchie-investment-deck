@@ -46,7 +46,7 @@ const ConfidenceSlide = () => {
           </h3>
           <ul className="text-sm space-y-1">
             <li>• 4 years refining the product</li>
-            <li>• Will take half salary if needed</li>
+            <li>• Will defer part of salary as needed</li>
             <li>• This is our life's work</li>
           </ul>
         </div>
