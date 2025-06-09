@@ -58,17 +58,12 @@ const GrowthSlide = () => {
           Want to see our complete marketing plan to reach 15K subscribers (break-even)?
         </p>
         <a 
-          href="https://scratchie-growth-deck.vercel.app/" 
-          target="_blank" 
-          rel="noopener noreferrer"
+          href="mailto:james@scratchie.com?subject=Please show me the marketing strategy for Scratchie"
           className="inline-flex items-center space-x-2 bg-blue-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-blue-700 transition-colors"
         >
-          <span>View Marketing Strategy Deck</span>
+          <span>Request Marketing Strategy</span>
           <ExternalLink className="w-4 h-4" />
         </a>
-        <p className="text-xs text-gray-500 mt-2">
-          Password: scratchie2025
-        </p>
       </div>
     </div>
   );
